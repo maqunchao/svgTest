@@ -1,6 +1,8 @@
 .App {
   text-align: center;
+  background: #00ff00 url('C:\Users\Administrator\Desktop\vaccine.jpg') no-repeat fixed center; 
 }
+
 
 .App-logo {
   height: 40vmin;
@@ -27,6 +29,27 @@
 .App-link {
   color: #61dafb;
 }
+/* 
+#downloadStyle :hover {
+  path {
+    fill: #4ecb78;
+  }
+  .backContent {
+    color: #4ecb78;
+  }
+}
+&:active {
+  path {
+    fill: #2baf57;
+  }
+  .backContent {
+    color: #2baf57;
+  }
+}
+
+ */
+
+
 
 @keyframes App-logo-spin {
   from {
